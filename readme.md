@@ -10,6 +10,7 @@
 ```
 git clone https://github.com/atfalstyle/Simple-Employee-Management-Apllication
 ```
+- Create Database With Name 'simpeg'
 - Import Database in Directory "Database/database.sql"
 - Login System With Account : Email = atfalstyle@gmail.com , password = atfal123
 - Done.

@@ -9,7 +9,7 @@ class Database
 		'host'		 	=> 'localhost',
 		'user'			=> 'root',
 		'password'	 	=> '',
-		'database'	 	=> 'db_remidi',
+		'database'	 	=> 'simpeg',
 		'prefix'	 	=> 'tbl_',
 		'encoding'	 	=> 'UTF8',
 		'port'		 	=> '',
